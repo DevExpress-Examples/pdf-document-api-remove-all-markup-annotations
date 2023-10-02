@@ -1,13 +1,6 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/180363980/17.2.2%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T545688)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
-#  PDF Document API - Remove Text Markup Annotations from a Document
 
-<p>This example shows how to delete all markup annotations from document pages.</p>
-<p>To retrieve all text markup annotations in a page, call the <a href="https://documentation.devexpress.com/OfficeFileAPI/DevExpress.Pdf.PdfDocumentProcessor.GetMarkupAnnotationData.method"><u>PdfDocumentProcessor.GetMarkupAnnotationData</u></a>  method with a specified page number.</p>
+# PDF Document API - Remove Text Markup Annotations from a Document
 
-<p>To delete all markup annotations, call the  <a href="https://documentation.devexpress.com/OfficeFileAPI/DevExpress.Pdf.PdfDocumentProcessor.DeleteMarkupAnnotations.method"><u>PdfDocumentProcessor.DeleteMarkupAnnotations</u> </a> method passing the markup annotation list as an argument to this method.</p>
+We continue to enhance DevExpress-related learning materials/examples on GitHub. Unfortunately, this example lacked user interest and its code base is now obsolete.
 
-<br/>
+If the use-case outlined in this example is of importance to you (or if you require additional guidance), please submit a support ticket via the [DevExpress Support Center](https://supportcenter.devexpress.com/ticket/create?followUpTo=T545688). We will be happy to follow-up.
